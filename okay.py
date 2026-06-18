@@ -20,4 +20,4 @@ st.markdown("""
 - 🆘 Safety Tools
 """)
 
-st.image("assets/logo.png", width=250)
+
