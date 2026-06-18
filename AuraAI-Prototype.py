@@ -9,7 +9,7 @@ st.set_page_config(
 st.title("💜 Aura AI")
 st.subheader("Your Safe Space. Your Growth Partner.")
 
-st.image("assets/logo.png")
+st.write("💜 Aura AI")
 
 st.markdown("""
 Welcome to Aura AI Prototype
